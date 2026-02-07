@@ -27,12 +27,8 @@ Hobbies: nihilist
 <h2 align = "center"> Stats </h2>
 <div> 
 <p align = "center">
-    <a href="https://github-readme-stats.vercel.app">
-        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=sailorsammyy&count_private=true&theme=neon&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&rank_icon=github&hide_border=false"/>
-    </a>
-    <hr>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img width="150%" align="left"alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=sailorsammyy&theme=radical&row=1&column=8"/>
+        <img width="150%" align="left"alt="Trophy" src="https://github-trophies.vercel.app/?username=sailorsammyy&theme=radical&row=1&column=8"/>
     </a>
 </p>
 </div>
