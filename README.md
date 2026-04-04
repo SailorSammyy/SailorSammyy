@@ -26,7 +26,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sailorsammyy&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="50" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=sailorsammyy&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
